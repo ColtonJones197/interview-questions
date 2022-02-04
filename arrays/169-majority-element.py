@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/majority-element/submissions/
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         result = 0
